@@ -1,0 +1,1 @@
+const n="(?:| a)m",s="(?:| i)s",a="(?:| a)re",o="(?:nt| not)",c=`(?:${s} not| isnt)`,_=`(?:${a} not| arent)`,t="(?:| ha)ve",e="(?:| ha)s",h=`(?:${t} not| havent)`,i="(?:| wi)ll",m="(?:Somebody|Smb)";export{o as _,n as a,a as b,s as c,m as d,_ as e,c as f,t as g,e as h,h as i,i as j};
